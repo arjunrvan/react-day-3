@@ -1,0 +1,15 @@
+.header_container {
+    width: 100vw;
+    height: 80px;
+    background-color: aliceblue;
+    padding: 15px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.header_container img {
+    height: 90%;
+    margin-right: 20px;
+}

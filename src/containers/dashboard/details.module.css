@@ -1,0 +1,28 @@
+.detail_holder button{
+    background-color: skyblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 20px;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    border-radius: 5px;
+
+}
+
+.detail_holder {
+    padding: 10px 30px;
+}
+
+.detail_holder h1 {
+    color: darkblue;
+}
+
+.detail_holder h4 {
+    color: blue;
+}
+
+.detail_holder h5 {
+    color: maroon;
+    font-style: italic;
+}

@@ -1,0 +1,30 @@
+.car_list_holder {
+    display: flex;
+    flex-direction: row;
+    background-color: aliceblue;
+    border: rgba(240,248, 255, 0.5);
+    max-width: 1000px;
+    
+}
+
+.car_details {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 30px;
+}
+
+.car_list_holder button {
+    background-color: skyblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.car_list_holder button:hover {
+    opacity: 0.8;
+}
+
